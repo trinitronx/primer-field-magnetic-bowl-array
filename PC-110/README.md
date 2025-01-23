@@ -2,9 +2,8 @@
 
 The files below allow you to produce a bowl-shaped magnetic array with Rapid Prototyping machines or through a [Rapid Prototyping Service][1].  The best file type to use for rapid prototyping is normally `.stl`. Here is a direct link to our file 
 
-PC 110 with array hole.stl
-
-PC 110 PF drawing
+- [`PC-110-PF-with-array-holes-k6x3.stl`](./PC-110-PF-with-array-holes-k6x3.stl)
+- [`PC 110 PF drawing`](./PC-110-PF-with-array-holes-in-mm.pdf)
 
 These files can be sent to a Rapid Prototyping service to get an exact duplicate of the bowl-shaped array used in the PrimerCube. After producing these arrays with a 3D printer, we recommend using a reamer slightly larger than the magnets to ensure a snug fit. A reamer that is a maximum of .002”(.05  mm) larger than your magnets is ideal to prevent any tilting. Alternatively, you can calibrate your 3D printer to create holes of the correct dimensions without reaming. For calibration instructions, refer to the manual specific to your 3D printer model.
 
