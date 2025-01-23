@@ -2,9 +2,9 @@
 
 ## Bowl v1
 
-- `SN Bowl v1.stl`: This file can be used with a rapid prototyping machine to produce the bowl shown above. Specify inch format for correct sizing when using a rapid prototyping machine.
-- `SN Bowl v1.PDF`: Drawing with Dimensions for the SN Bowl
-- `SN Bowl.ipt`: This is the AutoDesk Inventor file for the Bowl shown above
+- [`SN Bowl v1.stl`](./SN-Bowl-v1.stl): This file can be used with a rapid prototyping machine to produce the bowl shown above. Specify inch format for correct sizing when using a rapid prototyping machine.
+- [`SN Bowl v1.PDF`](./SN-Bowl-v1.pdf): Drawing with Dimensions for the SN Bowl
+- [`SN Bowl.ipt`](./SN-Bowl-v1.ipt): This is the AutoDesk Inventor file for the Bowl shown above
 
 This design uses magnets that are 1/4” diameter by 1/4” long, that are magnetized through the thickness. All the magnets should be inserted with same magnetic orientation in each bowl. To duplicate the PrimerField experiments, one bowl should have all the magnets with the north magnetic pole facing inwards and the other bowl with the south magnetic pole facing inwards. This would give you one north polarity bowl and one south polarity bowl. Obviously these bowls are not a monopole.
 
@@ -12,9 +12,9 @@ This design uses magnets that are 1/4” diameter by 1/4” long, that are magne
 
 ## Bowl v4
 
-- `Bowl v4.stl`: This file can be used to produce the bowl shown above with a rapid prototyping machine. Specify inch format for correct sizing when using a rapid prototyping machine.
-- `Bowl v4.pdf`: Dimensional drawing for part
-- `Bowl v4.ipt`: This is the AutoDesk Inventor file for the bowl v4 shown above.
+- [`Bowl v4.stl`](./Bowlv4.stl): This file can be used to produce the bowl shown above with a rapid prototyping machine. Specify inch format for correct sizing when using a rapid prototyping machine.
+- [`Bowl v4.pdf`](./Bowl-v4.pdf): Dimensional drawing for part
+- [`Bowl v4.ipt`](./Bowl-v4.ipt): This is the AutoDesk Inventor file for the bowl v4 shown above.
 
 This design uses magnets that are 1/4” diameter by 1/4” long, that are magnetized through the thickness. All the magnets should be inserted with same magnetic orientation in each bowl. To duplicate the PrimerField experiments, one bowl should have all the magnets with the north magnetic pole facing inwards and the other bowl with the south magnetic pole facing inwards. This would give you one north polarity bowl and one south polarity bowl. Obviously these bowls are not a monopole.
 
