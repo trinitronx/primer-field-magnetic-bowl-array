@@ -14,6 +14,7 @@ The stl files should be scaled according to the dimensions shown in the PDF file
 
 Also provided is the CNC code we used to drill the holes for the magnets in the pre-machined delrin bowls with our five axis mill. Machined delrin is desirable for spinning arrays, but rapid prototyping methods will work just fine for static (non-spinning) arrays. 
 
+![PC-110 image](./PC-110_IMG_0636.jpg)
 
 ## DISCLAIMER
 
