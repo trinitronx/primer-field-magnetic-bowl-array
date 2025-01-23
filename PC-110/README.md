@@ -1,6 +1,6 @@
 # Files for Rapid Prototyping of Magnetic Bowl Array
 
-The files below allow you to produce a bowl-shaped magnetic array with Rapid Prototyping machines or through a [Rapid Prototyping Service][1].  The best file type to use for rapid prototyping is normally .stl. Here is a direct link to our file 
+The files below allow you to produce a bowl-shaped magnetic array with Rapid Prototyping machines or through a [Rapid Prototyping Service][1].  The best file type to use for rapid prototyping is normally `.stl`. Here is a direct link to our file 
 
 PC 110 with array hole.stl
 
@@ -14,4 +14,10 @@ The stl files should be scaled according to the dimensions shown in the PDF file
 
 Also provided is the CNC code we used to drill the holes for the magnets in the pre-machined delrin bowls with our five axis mill. Machined delrin is desirable for spinning arrays, but rapid prototyping methods will work just fine for static (non-spinning) arrays. 
 
+
+## DISCLAIMER
+
+The information in this repository is for archival and educational purposes only and is not intended to be used for medical treatment or healthcare purposes. For the complete disclaimer for use of www.primerfieldfoundation.org please [click here][2]
+
 [1]: https://www.google.com/search?source=hp&ei=RF47XaOXKpP6-gSKxJ_ADw&q=rapid+prototyping+services&oq=rapid+pro&gs_l=psy-ab.1.5.0l10.1078.2774..6685...0.0..0.247.817.9j0j1......0....1..gws-wiz.....0..0i131j0i10.QDtTyPG98Cg
+[2]: https://primerfieldfoundation.org/website-disclaimer
